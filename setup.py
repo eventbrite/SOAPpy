@@ -67,7 +67,6 @@ setup(
     include_package_data=True,
     install_requires=[
         'fpconst',
-        'wstools',
+        'wstools==0.4',
     ]
 )
-
